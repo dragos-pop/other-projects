@@ -1,2 +1,2 @@
 # other-projects
-Other projects
+- Posture Classification using Smartphone Sensors
